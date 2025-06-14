@@ -1,0 +1,38 @@
+node_modules
+package-lock.json
+mongo_data
+
+# local env files
+.env.local
+.env
+# public/images
+# public/uploads
+public/images/*
+
+# build files
+build/
+dist/
+
+# logs
+*.log
+
+# misc
+.DS_Store
+.env.local
+.env
+.env.test
+.env.development
+.env.production
+.env.local
+.env.development.local
+.env.test.local
+
+# IDE
+.idea
+.vscode
+
+# TEST jest
+coverage/
+jest.config.js
+jest.setup.js
+
