@@ -4,7 +4,6 @@ mongo_data
 
 # local env files
 .env.local
-.env
 # public/images
 # public/uploads
 public/images/*
